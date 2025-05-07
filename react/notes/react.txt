@@ -1,0 +1,18 @@
+Q1. event.target.value – What does it mean?
+   This expression is commonly used inside event handlers (like onChange, onClick, etc.) in JavaScript, especially in React.
+
+🧩 Breakdown:
+event
+This is the event object automatically passed to the event handler function when an event occurs (e.g., typing in an input field).
+
+target
+Refers to the DOM element that triggered the event (like an <input> element).
+
+value
+Refers to the current value of that DOM element (for example, what the user typed into the input box).
+
+
+
+
+
+
